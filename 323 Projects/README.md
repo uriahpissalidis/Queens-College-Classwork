@@ -1,1 +1,3 @@
-Binary Search files are from Assignment 1 <br>
+Assignment 1: Binary Search files<br>
+Assignment 2: QSRP<br>
+Assignment 3:
